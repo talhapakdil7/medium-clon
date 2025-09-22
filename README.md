@@ -19,13 +19,7 @@ Bootstrap kullanılarak responsive (mobil uyumlu) bir arayüz tasarlanmıştır.
 - **HTML5**  
 - **CSS3**  
 - **Bootstrap 4.5**  
-- **Font Awesome** (ikonlar için)  
-
----
-
-## 📷 Ekran Görüntüsü  
-![Preview](./screenshot.png)  
-*(Proje klasörüne `screenshot.png` ekleyerek önizleme gösterebilirsin.)*  
+- **Font Awesome** (ikonlar için)   
 
 ---
 
