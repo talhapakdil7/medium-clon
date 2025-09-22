@@ -1,0 +1,14 @@
+.playfair-display-title {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bg-yellow {
+  background-color: #f7f4ed;
+}
+
+.border-bottom {
+  border-bottom: 1px black;
+}
